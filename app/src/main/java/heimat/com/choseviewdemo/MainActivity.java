@@ -1,4 +1,4 @@
-package hiemat.com.choseviewdemo;
+package heimat.com.choseviewdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
